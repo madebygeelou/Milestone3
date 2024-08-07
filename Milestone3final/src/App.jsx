@@ -4,7 +4,15 @@ import './App.css'
 function App() {
   return (
     <>
-    <div>Test</div>
+    <div>
+      <header>
+        <a href="" className="logo">
+          <svg xmlns="">
+            <path strokeLineCap="round"></path>
+          </svg>
+        </a>
+      </header>
+    </div>
     </>
   )
 }
